@@ -27,7 +27,9 @@ install.packages(c("nycflights13", "gapminder", "RColorBrewer",
                     "FactoMineR","tidymodels","vcd"," lwgeom",
                     "gridGraphics","caret", "repr", "GGally",
                     "IRdisplay", "pdbZMQ", "argparse", "vegan", "ape","doBy",
-                   "extrafont", "showtext","reshape2", "ggalt"
+                   "extrafont", "showtext","reshape2", "ggalt", "factoextra", "IRdisplay", "svglite",
+                   "cowplot", "KODAMA", "ComplexHeatmap", "dendextend", "NbClust", "rfPermute", 
+                   "FSA", "matrixStats"
                   ))
 
 tinytex::install_tinytex()
